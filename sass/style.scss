@@ -279,7 +279,7 @@ figure {
             width: 200px;
             margin: 0 auto;
             margin-bottom: 30px;
-            // border: 1px solid rgba($brand-white,1);
+            border: 1px solid rgba($brand-gray, 1);
             @include border-radius(50%);
         }
         .fh5co-social-icons {
